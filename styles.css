@@ -4,6 +4,15 @@ body>header {
     padding: 30px;
 }
 
+a {
+    color: red;
+    text-decoration: none;
+}
+
+a:visited {
+    color: orange;
+}
+
 ul, ol {
     list-style: none;
     padding-left: 0;
@@ -11,7 +20,7 @@ ul, ol {
 
 main {
     padding: 40px;
-    padding-bottom: 100px;
+    padding-bottom: 120px;
 }
 
 body {
